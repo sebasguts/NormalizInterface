@@ -44,10 +44,10 @@ like this:
     make
 
 If you need to customize the normaliz compilation have a look at
-Normaliz.git/source/INSTALL. Remember to use the same compiler and gmp
+Normaliz.git/source/INSTALL. Remember to use the same compiler and GMP
 version as for GAP.
 
-To be able to run the tests of NormalizInterface install also the gap package
+To be able to run the tests of NormalizInterface install also the GAP package
 io. For that go to the pkg/io-x.x.x/ directory and do "./configure" and "make".
 See the io package README for more information.
 
